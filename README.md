@@ -1,4 +1,4 @@
-# Laravel 9 管理本地化檔案
+# Laravel 10 管理本地化檔案
 
 引入 barryvdh 的 laravel-translation-manager 套件來擴增管理本地化檔案，語系字串存放在 `lang` 資料夾的檔案裡，每個支援的語系都會對應到一個子目錄，將本地化檔案匯入到資料庫，並通過頁面進行編輯。
 
