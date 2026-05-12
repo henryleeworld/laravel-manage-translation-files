@@ -5,6 +5,7 @@
     "Add new keys to this group": "在該群組中新增新的鍵",
     "Add new locale": "新增新的本地化",
     "Append new translations": "附加新的翻譯",
+    "Are you sure you want to delete the translations for :key?": "您確定要刪除 :key 的翻譯嗎？",
     "Are you sure you want to publish the translations group :group? This will overwrite existing language files.": "您確定要發佈 :group 群組翻譯嗎？這將覆寫既有語言檔案。",
     "Are you sure to remove this locale and all of data?": "您確定要刪除該本地化和全部數據嗎？",
     "Are you sure you want to publish all translations group? This will overwrite existing language files.": "您確定要發佈全部群組翻譯嗎？這將覆寫既有語言檔案。",
